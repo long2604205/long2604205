@@ -39,3 +39,4 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQLServer-4479A1?style=flat&logo=sqlserver&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQLServer-4479A1?style=flat&logo=sqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQLServer-4479A1?style=flat&logo=sqlserver&logoColor=white)

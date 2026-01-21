@@ -25,7 +25,7 @@
 
 ### 🔹 Languages
 <div align="left">
-  <img height="24" src="https://skillicons.dev/icons?i=php,py,rust,js,ts,java,cs,go" />
+  <img height="24" src="https://skillicons.dev/icons?i=php,py,rust,js,ts,java,cs,go,css" />
 </div>
 
 ### 🔹 Frameworks & Tools
